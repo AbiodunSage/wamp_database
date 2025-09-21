@@ -1,0 +1,24 @@
+# Python
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+
+# Django DB
+db.sqlite3
+
+# VS Code and JetBrains
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Migrations (optional - only if you regenerate them often)
+**/migrations/*.pyc
+**/migrations/__pycache__/
+__pycache__/
+*.py[cod]
